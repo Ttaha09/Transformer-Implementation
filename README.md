@@ -1,4 +1,4 @@
-# Attention Implementation
+# Transformer Implementation
 
 I tried to implement the Transformer network architecture using pytorch, this architecture is based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
 
