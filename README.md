@@ -2,7 +2,7 @@
 
 I tried to implement the Transformer network architecture using pytorch, this architecture is based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
 
-<p align="center"><img src="Images/Transformer.PNG" width=676 height=450> </p>
+<p align="center"><img src="Images/Transformer.PNG" > </p>
 
 ### Connect with me:
 
